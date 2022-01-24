@@ -6,7 +6,7 @@ the packages nodemon and tsc-watch are used to watch changes and compile files r
 
 make sure to add the packages and edit the scripts in package.json
 
-````
+```
     yarn add -D nodemon tsc-watch
 
 ```
@@ -18,13 +18,11 @@ package.json
     "start": "nodemon --ignore 'build/*' -e ts,js  --exec \"npm run compile\"",
 ```
 
-
-
 ## Linting
 
 To Add Typescript and Linting, type the following commands.
 
-````
+```
 
     yarn add -D eslint-config-cloudhub-base
 
@@ -61,5 +59,6 @@ dirs: [
 
 ```
 
+```
 
 ```
