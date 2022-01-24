@@ -1,0 +1,7 @@
+assets/dependencies/**/*.js
+views/**/*.ejs
+assets/dependencies/**/*.js
+node_modules/**/*.js
+node_modules/**/*.js.map
+build/**/*.js
+build/**/*.js.map
